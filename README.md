@@ -1,4 +1,4 @@
-# naturalearth-extracted-archive
+# naturalearthtiles-extracted-archive
 
 How to generate mbtiles.  
 ```$ mb-util --image_format=png input_directory output.mbtiles```  
