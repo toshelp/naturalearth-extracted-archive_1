@@ -1,0 +1,8 @@
+{
+    "center": "-3.0762,39.3003,2", 
+    "format": "webp", 
+    "description": "Natural Earth II raster tiles from https://github.com/lukasmartinelli/natural-earth-vector-tiles", 
+    "minzoom": "0", 
+    "maxzoom": "6", 
+    "name": "Natural Earth II"
+}
